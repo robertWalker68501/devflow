@@ -1,6 +1,7 @@
 {
   "extends": ["next/core-web-vitals", "next/typescript", "standard", "plugin:tailwindcss/recommended", "prettier"],
   "rules": {
+    "camelcase": "off",
     "max-len": [2, 500],
     "no-multiple-empty-lines": [
       "error",
