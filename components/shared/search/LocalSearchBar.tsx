@@ -12,7 +12,7 @@ interface CustomInputProps {
 }
 
 const LocalSearchBar = ({
-  route,
+  // route,
   iconPosition,
   imgSrc,
   placeholder,
